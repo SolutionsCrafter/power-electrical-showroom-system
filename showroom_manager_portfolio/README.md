@@ -20,8 +20,8 @@ Real photos from the client's showroom.
 
 | | |
 |---|---|
-| ![POS counter setup](screenshots/counter_setup.jpg) **POS counter:** Android tablet, receipt printer, label printer and barcode scanner | ![Printed receipt](screenshots/receipt.jpg) **Printed receipt:** 80 mm thermal bill with serial number, warranty and barcode |
-| ![Windows PC](screenshots/windows_pc.jpg) **Windows PC:** the same system running on the desktop app | |
+| ![POS counter setup](screenshots/counter_setup.jpeg) **POS counter:** Android tablet, receipt printer, label printer and barcode scanner | ![Printed receipt](screenshots/receipt.jpeg) **Printed receipt:** 80 mm thermal bill with serial number, warranty and barcode |
+| ![Windows PC](screenshots/windows_pc.jpeg) **Windows PC:** the same system running on the desktop app | |
 
 ---
 
