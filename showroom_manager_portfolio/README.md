@@ -14,6 +14,17 @@ printer, label printer, cash drawer and barcode scanner directly.
 
 ---
 
+## In production
+
+Real photos from the client's showroom.
+
+| | |
+|---|---|
+| ![POS counter setup](photos/counter_setup.jpg) **POS counter:** Android tablet, receipt printer, label printer and barcode scanner | ![Printed receipt](photos/receipt.jpg) **Printed receipt:** 80 mm thermal bill with serial number, warranty and barcode |
+| ![Windows PC](photos/windows_pc.jpg) **Windows PC:** the same system running on the desktop app | |
+
+---
+
 ## Screenshots
 
 | | |
